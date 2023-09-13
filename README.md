@@ -2,14 +2,14 @@
 
 
 ## Table of Contents
-- [Introduction](#introduction)
+- [INTRODUCTION.](#introduction)
 - [PROJECT DESCRIPTION](#PROJECT-DESCRIPTION)
 - [DEFINING THE PROBLEM](#DEFINING-THE-PROBLEM)
 - [PROBLEM SOLVING STEPS](#PROBLEM-SOLVING-STEPS)
 - [GETTING DATA](#GETTING-DATA)
 
 
-# introduction
+# INTRODUCTION
 In this project, we are going to do a sales analysis using the data from a bike store company. 
 The analysis is going to give you an idea of what to expect when facing a real world problem. We are making an asumption that we have been given access to the database of the company, which is obviously impossible. But we can go around that by creating the database on our local machine...
 All the file and guide that you need is included in this repository, so feel free to explore as you like
